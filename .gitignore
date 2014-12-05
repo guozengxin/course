@@ -1,3 +1,5 @@
 # template dirs
+__MACOSX
 # template files
 octave-workspace
+.DS_Store
